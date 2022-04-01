@@ -17,6 +17,21 @@ When I developed the feature that allows users to post the image of their produc
 - Successfully created this full stack web application that can transfer money
 - Managed to create a fundraising app in a form of charity bazaar that can deal with the real-world problem
 
+*Note: This project cannot be deployed on Github Page as it includes a database, so please clone the repo to see the full web.*
+
+## Demo
+### Landing Page
+![Landing Page](https://github.com/Beihao-Zhou/Love-Bazaar/blob/main/demo/landing.PNG)
+
+### Category Page
+![Category Page](https://github.com/Beihao-Zhou/Love-Bazaar/blob/main/demo/category.PNG)  
+
+### Checkout Page
+![Checkout Page](https://github.com/Beihao-Zhou/Love-Bazaar/blob/main/demo/checkout.PNG)
+
+### Selling Page
+![Selling Page](https://github.com/Beihao-Zhou/Love-Bazaar/blob/main/demo/sell.PNG)  
+
 ## What I learned
 - Used Django REST framework to process users’ authentication and authorization
 - Created models, serializers and API for products and orders using Django REST framework
@@ -24,4 +39,4 @@ When I developed the feature that allows users to post the image of their produc
 - Allowed users to add items to shopping cart using state of Vue, along with localStorage
 
 ## What's next for Love Bazaar
-Currently, the platform decides where the donations go after users’ payment. However, each non-profit and charity may have their own missions and visions, which means users may prefer one to another because of this. One idea is that users can choose their favorite organizations to donate, which can probably encourage them to engage in the community more actively. Therefore, a page that introduces the sponsors and partners should be added, and a selection box, which includes all organizations should be included when posting goods
+Currently, the platform decides where the donations go after users’ payment. However, each non-profit and charity may have their own missions and visions, which means users may prefer one to another. Hence, one idea is that users can choose their favorite organizations to donate, which can probably encourage them to engage in the community more actively. Therefore, a page that introduces the sponsors and partners, as well as the feature of organization selection options, should be added. 
