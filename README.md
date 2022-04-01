@@ -17,8 +17,6 @@ When I developed the feature that allows users to post the image of their produc
 - Successfully created this full stack web application that can transfer money
 - Managed to create a fundraising app in a form of charity bazaar that can deal with the real-world problem
 
-*Note: This project cannot be deployed on Github Page as it includes a database, so please clone the repo to see the full web.*
-
 ## Demo
 ### Landing Page
 ![Landing Page](https://github.com/Beihao-Zhou/Love-Bazaar/blob/main/demo/landing.PNG)
